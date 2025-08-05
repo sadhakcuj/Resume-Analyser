@@ -14,7 +14,7 @@ import Scheduler from './pages//Scheduler';
 import Quiz from './pages/Quiz'
 import ProtectedRoute from './components/ProtectedRoute';
 import { AuthProvider } from './context/AuthContext';
-
+// comment
 function App() {
   return (
     <AuthProvider>
